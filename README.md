@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently focusing on studying front-end development
+⚡ Fun fact: I'm bassist
 
 <div>
   <a href="https://github.com/gbrldrosa">
@@ -12,7 +14,7 @@
   <img align="center" alt="Gabi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img align="center" alt="Gabi-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-  <img align="right" alt="yoda-gif" src="https://tenor.com/pt-BR/view/star-wars-baby-yoda-yoda-cute-the-mandalorian-gif-17870401" />
+  <img align="right" alt="baixista-gif" src="https://thumbs.gfycat.com/FixedRequiredAustraliankelpie-size_restricted.gif" />
 </div>
 
 ##
