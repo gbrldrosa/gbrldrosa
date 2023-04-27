@@ -14,7 +14,7 @@
   <img align="center" alt="Gabi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img align="center" alt="Gabi-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-  <img align="right" alt="baixista-gif" src="https://thumbs.gfycat.com/FixedRequiredAustraliankelpie-size_restricted.gif" />
+  <img align="right" alt="baixista-gif"  height="30%" width="30%" src="https://thumbs.gfycat.com/FixedRequiredAustraliankelpie-size_restricted.gif" />
 </div>
 
 ##
