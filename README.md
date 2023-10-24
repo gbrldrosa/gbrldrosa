@@ -1,6 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently focusing on studying front-end development
+🔭 I'm currently studying back-end development
+👨‍💻 
+🌎 I'm Brazilian
 ⚡ Fun fact: I'm bassist
+
 
 <div>
   <a href="https://github.com/gbrldrosa">
