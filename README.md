@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently studying back-end development
-- 👨‍💻 
+- 👨‍💻 I'm studying databases
 - 🌎 I'm Brazilian
 - ⚡ Fun fact: I'm bassist
 
