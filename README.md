@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I'm currently studying back-end development
-👨‍💻 
-🌎 I'm Brazilian
-⚡ Fun fact: I'm bassist
+- 🔭 I'm currently studying back-end development
+- 👨‍💻 
+- 🌎 I'm Brazilian
+- ⚡ Fun fact: I'm bassist
 
 
 <div>
